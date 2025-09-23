@@ -19,3 +19,21 @@ Best Regards,
 [Your Name]</h5>
 
 <h4>My-SQL :https://excalidraw.com/#json=NjQzZLUG_W92Ig_UmvsrS,rrYr3Vq0JaAl_CqUW17sCw</h4>
+
+<h5> Track price - Prompt : 
+
+Act as a price tracker.  
+Check Amazon India and Flipkart today’s sale offers.  
+Find the top 10 products with the highest price drop compared to their original price (MRP).  
+For each product, give me:  
+1. Product Name  
+2. Current Sale Price  
+3. Original Price (MRP)  
+4. Discount %  
+5. Link to product  
+
+Only include real-time offers that are live today.  
+Sort results by highest discount % first.  
+
+
+</h5>
