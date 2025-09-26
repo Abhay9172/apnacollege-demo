@@ -20,20 +20,6 @@ Best Regards,
 
 <h4>My-SQL :https://excalidraw.com/#json=8FF-rePGIJQ0WzKuDE5yM,uljQURWes1SB_e6U_WIh0w</h4>
 
-<h5> Track price - Prompt : 
 
-Act as a price tracker.  
-Check Amazon India and Flipkart today’s sale offers.  
-Find the top 10 products with the highest price drop compared to their original price (MRP).  
-For each product, give me:  
-1. Product Name  
-2. Current Sale Price  
-3. Original Price (MRP)  
-4. Discount %  
-5. Link to product  
-
-Only include real-time offers that are live today.  
-Sort results by highest discount % first.  
-</h5>
 
 flipcard : https://www.flipkart.com/safari-ashper-pro-35-l-laptop-backpack/p/itm7e83f05ce4338?pid=BKPH3SBH7C8C7B9Z&lid=LSTBKPH3SBH7C8C7B9ZE0UR6Q&marketplace=FLIPKART&q=SAFARI+Ashper+Pro+35+L+Laptop+Backpack+%28Black%29&store=reh%2F4d7%2Fx9i&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=83ade749-1a28-4343-88b7-3c65d7d5fff1.BKPH3SBH7C8C7B9Z.SEARCH&ppt=sp&ppn=sp&ssid=t0kdxfnny80000001758635485445&qH=69de57de6d6c055e
