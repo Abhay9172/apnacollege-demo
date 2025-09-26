@@ -10,3 +10,5 @@ Submission of Required Details
 <h4>My-SQL :https://excalidraw.com/#json=8FF-rePGIJQ0WzKuDE5yM,uljQURWes1SB_e6U_WIh0w</h4>
 
 flipcard : https://www.flipkart.com/safari-ashper-pro-35-l-laptop-backpack/p/itm7e83f05ce4338?pid=BKPH3SBH7C8C7B9Z&lid=LSTBKPH3SBH7C8C7B9ZE0UR6Q&marketplace=FLIPKART&q=SAFARI+Ashper+Pro+35+L+Laptop+Backpack+%28Black%29&store=reh%2F4d7%2Fx9i&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=83ade749-1a28-4343-88b7-3c65d7d5fff1.BKPH3SBH7C8C7B9Z.SEARCH&ppt=sp&ppn=sp&ssid=t0kdxfnny80000001758635485445&qH=69de57de6d6c055e
+
+<h4> java notes : https://excalidraw.com/#json=jmRP4DMFqWCBCHFY-9o1W,G0NdOnfMBi5OHx1mb9TWtQ</h4>
