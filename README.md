@@ -11,4 +11,4 @@ Submission of Required Details
 
 <h4> java notes : https://excalidraw.com/#json=tUyzO5o8RJNhlddIn-XZx,fkvi5-uEGuXceyqYf7isGg</h4>
 
-<h4> my interview Q</h4>
+<h4>Manual Testng notes : https://excalidraw.com/#json=Vix8Got7h96fs0bkUcJgE,AUt14pyrrJhFCT12INhD1w</h4>
